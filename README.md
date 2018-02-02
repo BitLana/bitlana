@@ -4,7 +4,7 @@ La BitLana es una criptomoneda enfocada en proveer un mecanismo descentralizado 
 
 ¡La BitLana es de todos! El código es completamente abierto y gratuito para usar sin restricción alguna, excepto las especificadas en la licencia.
 
-Si quieres hacer algún cambio al código, por favor haz un pull request en la rama `master`. 
+Si quieres hacer algún cambio al código, por favor haz un pull request en la rama `master`.
 
 Puedes conocer más de esta criptomoneda en [https://www.bitlana.com](https://www.bitlana.com)
 
@@ -55,7 +55,7 @@ cd build
 cmake -G "Visual Studio 14 Win64" ..
 ```
 
-Y ahora compílala desde MSVC. 
+Y ahora compílala desde MSVC.
 
 En algunos casos, puede ser necesario que tengas que agregar de manera explícita la ruta a Boost:
 
@@ -67,7 +67,7 @@ cmake.exe -DBOOST_ROOT=C:\boost_1_59_0 -DBOOST_LIBRARYDIR=C:\boost_1_59_0\libs -
 
 Nos puedes encontrar en:
 
-* [Comunidad oficial de Telegram](https://t.me/inbestcoin)
+* [Comunidad oficial de Telegram](https://t.me/bitlana)
 
 ## Licencia
 
